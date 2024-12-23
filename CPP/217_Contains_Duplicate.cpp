@@ -12,5 +12,15 @@ public:
             }
         }
         return false;
+
+        // Using Set
+        //  set<int> mySet;
+        //   for(int x: nums){
+        //     auto result = mySet.insert(x);
+        //     if (!result.second) {
+        //         return true;
+        //     }
+        //   }
+        //   return false;
     }
 };
