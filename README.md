@@ -4,10 +4,11 @@ My personal LeetCode Journey repository! This is a project where I document my s
 
 ## Progress
 
-| Languages | Easy | Medium | Hard | 
-|-----------------------|------|-----|-----|
-| [C](https://github.com/Shrabya35/Leetcode/tree/main/C)                     | 6    | 2   | 0   |
-| [CPP](https://github.com/Shrabya35/Leetcode/tree/main/CPP)                      | 26   | 5   | 0   |
+
+| Languages | Easy | Medium | Hard | Total |
+|-----------------------|------|-----|-----|-------|
+| [C](https://github.com/Shrabya35/Leetcode/tree/main/C)      | 6    | 2   | 0   | 8     |
+| [CPP](https://github.com/Shrabya35/Leetcode/tree/main/CPP)  | 28   | 6   | 0   | 34    |
 
 
 
