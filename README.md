@@ -7,9 +7,5 @@ My personal LeetCode Journey repository! This is a project where I document my s
 
 | Languages | Easy | Medium | Hard | Total |
 |-----------------------|------|-----|-----|-------|
-| [C](https://github.com/Shrabya35/Leetcode/tree/main/C)      | 10    | 3   | 1   | 14    |
-| [CPP](https://github.com/Shrabya35/Leetcode/tree/main/CPP)  | 34   | 10   | 2   | 46    |
-
-
-
-
+| [C](https://github.com/Shrabya35/Leetcode/tree/main/C)      | 10    | 4   | 1   | 15    |
+| [CPP](https://github.com/Shrabya35/Leetcode/tree/main/CPP)  | 35   | 13   | 2   | 50    |
